@@ -3,9 +3,10 @@
     "Tracking ID": "GROWW16880",
     "Domain": "Vbb",
     "Telegram": "@Vvb",
-    "Order Status": "Delivered",
+    "Order Status": "Rejected",
     "Date": "2025-02-20",
-    "Time": "15:12:09"
+    "Time": "15:12:09",
+    "Reason": "Out of Stock"
   },
   {
     "Tracking ID": "GROWW88779",
