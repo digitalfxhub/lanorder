@@ -12,9 +12,11 @@
     "Tracking ID": "GROWW93548",
     "Domain": "Ggg",
     "Telegram": "@Ggg",
-    "Order Status": "In Progress",
+    "Order Status": "Rejected",
     "Date": "2025-02-20",
-    "Time": "14:30:29"
+    "Time": "14:30:29",
+    "Rejection Reason": "Invalid Details",
+    "Updated At": "2/20/2025, 10:46:39 PM"
   },
   {
     "Tracking ID": "GROWW16880",
