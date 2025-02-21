@@ -39,10 +39,11 @@
     "Tracking ID": "GROWW71887",
     "Domain": "Bb",
     "Telegram": "@B",
-    "Order Status": "Delivered",
+    "Order Status": "Rejected",
     "Date": "2025-02-21",
     "Time": "09:33:18",
-    "Last Updated": "2/21/2025, 2:57:35 PM"
+    "Last Updated": "2/21/2025, 3:18:02 PM",
+    "Reason": "Payment Not Received"
   },
   {
     "Tracking ID": "GROWW71042",
