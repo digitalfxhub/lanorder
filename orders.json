@@ -85,9 +85,10 @@
     "Tracking ID": "GROWW54147",
     "Domain": "bchl",
     "Telegram": "@B",
-    "Order Status": "Delivered",
+    "Order Status": "Rejected",
     "Date": "2025-02-21",
     "Time": "21:24:16",
-    "Last Updated": "2/21/2025, 9:25:37 PM"
+    "Last Updated": "2/21/2025, 9:26:09 PM",
+    "Reason": "Wrong TXN ID"
   }
 ]
