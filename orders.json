@@ -144,8 +144,10 @@
     "Tracking ID": "GROWW40692",
     "Domain": "Bbnn",
     "Telegram": "@Ggjhmm",
-    "Order Status": "In Progress",
+    "Order Status": "Rejected",
     "Date": "2025-02-22",
-    "Time": "23:11:18"
+    "Time": "23:11:18",
+    "Reason": "Partial Payment Received",
+    "Last Updated": "2/22/2025, 11:12:19 PM"
   }
 ]
